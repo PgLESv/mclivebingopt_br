@@ -11,9 +11,9 @@ body {
   align-items: center;
   width: 100vw;
   min-width: 300px;
-  height: 100vh;
+  height: 300vh;
   overflow-x: hidden;
-  background: url('./assets/panorama2023.png') no-repeat center center fixed, #7CA8FF;
+  background: url('./assets/minecraft-movie.jpg') no-repeat center center fixed, #7CA8FF;
   background-size: cover;
   font-family: 'seven', sans-serif;
   font-size: 110%;
